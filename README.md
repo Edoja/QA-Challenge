@@ -35,8 +35,6 @@ D. press "Command + Shift + P" on VS code to bring up built in fucntions to call
 
 E. http get request should show 200 ok and a list of values
 
-F. http get request should show 200 ok and a list of values
-
 
 
 **Overview:**
